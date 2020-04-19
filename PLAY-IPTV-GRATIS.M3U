@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:0 tvg-name="DINEY CHANNEL" tvg-ID="" group-title="Niños",DISNEY CHANNEL
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15604.ts
+#EXTINF:0 tvg-name="A&E" tvg-ID="" group-title="CULTURA",A&E
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1722.ts
+#EXTINF:0 tvg-name="AMC" tvg-ID="" group-title="CINEMA",AMC
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1724.ts
+#EXTINF:0 tvg-name="ANIMAL PLANET" tvg-ID="" group-title="CULTURA",ANIMAL PLANET
+http://tv.iptv5latino.cl:8000/live/Angela/1234/5406.ts
+#EXTINF:0 tvg-name="AXN" tvg-ID="" group-title="CINEMA",AXN
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1725.ts
+#EXTINF:0 tvg-name="CARTOON NETWORK" tvg-ID="" group-title="Niños",CARTOON NETWORK
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1163.ts
+#EXTINF:0 tvg-name="CINE CANAL" tvg-ID="" group-title="CINEMA",CINE CANAL
+http://tv.iptv5latino.cl:8000/live/Angela/1234/17334.ts
+#EXTINF:0 tvg-name="CINEMAX" tvg-ID="" group-title="CINEMA",CINEMAX
+http://tv.iptv5latino.cl:8000/live/Angela/1234/17335.ts
+#EXTINF:0 tvg-name="CNN" tvg-ID="" group-title="NOTICIAS",CNN
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15712.ts
+#EXTINF:0 tvg-name="DE PELICULA" tvg-ID="" group-title="CINEMA",DE PELICULA 
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1728.ts
+#EXTINF:0 tvg-name="DE PELICULA PLUS" tvg-ID="" group-title="CINEMA",DE PELICULA PLUS
+http://tv.iptv5latino.cl:8000/live/Angela/1234/3836.ts
+#EXTINF:0 tvg-name="DISCOVERY CHANNEL" tvg-ID="" group-title="CULTURA",DISCOVERY CHANNEL
+http://tv.iptv5latino.cl:8000/live/Angela/1234/17326.ts
+#EXTINF:0 tvg-name="DISCOVERY CIVILIZATION" tvg-ID="" group-title="CULTURA",DISCOVERY CIVILIZATION
+http://tv.iptv5latino.cl:8000/live/Angela/1234/5407.ts
+#EXTINF:0 tvg-name="DISCOVERY H&H" tvg-ID="" group-title="CULTURA",DISCOVERY H&H
+http://tv.iptv5latino.cl:8000/live/Angela/1234/5408.ts
+#EXTINF:0 tvg-name="DISCOVERY ID" tvg-ID="" group-title="CULTURA",DISCOVERY ID
+http://tv.iptv5latino.cl:8000/live/Angela/1234/17312.ts
+#EXTINF:0 tvg-name="DISCOVERY KIDS" tvg-ID="" group-title="Niños",DISCOVERY KIDS
+http://tv.iptv5latino.cl:8000/live/Angela/1234/721.ts
+#EXTINF:0 tvg-name="DISCOVERY SCIENCE" tvg-ID="" group-title="CULTURA",DISCOVERY SCIENCE
+http://tv.iptv5latino.cl:8000/live/Angela/1234/5409.ts
+#EXTINF:0 tvg-name="DISCOVERY TURBO" tvg-ID="" group-title="CULTURA",DISCOVERY TURBO
+http://tv.iptv5latino.cl:8000/live/Angela/1234/5410.t
+#EXTINF:0 tvg-name="DISNEY JR" tvg-ID="" group-title="Niños",DISNEY JR
+http://tv.iptv5latino.cl:8000/live/Angela/1234/723.ts
+#EXTINF:0 tvg-name="DISNEY XD" tvg-ID="" group-title="Niños",DISNEY XD
+http://tv.iptv5latino.cl:8000/live/Angela/1234/724.ts
+#EXTINF:0 tvg-name="ESPN HD" tvg-ID="" group-title="DEPORTES",ESPN HD
+http://tv.iptv5latino.cl:8000/live/Angela/1234/610.ts
+#EXTINF:0 tvg-name="EUROSPORT 1" tvg-ID="" group-title="DEPORTES",EUROSPORT 1
+http://tv.iptv5latino.cl:8000/live/Angela/1234/25039.ts
+#EXTINF:0 tvg-name="EUROSPORT 2" tvg-ID="" group-title="DEPORTES",EUROSPORT 2
+http://tv.iptv5latino.cl:8000/live/Angela/1234/25040.ts
+#EXTINF:0 tvg-name="FIGHT NETWORK" tvg-ID="" group-title="DEPORTES",FIGHT NETWORK
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15923.ts
+#EXTINF:0 tvg-name="FOX CHANNEL HD" tvg-ID="" group-title="CINEMA",FOX CHANNEL HD
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1738.ts
+#EXTINF:0 tvg-name="FOX LIFE" tvg-ID="" group-title="CINEMA",FOX LIFE
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1730.ts
+#EXTINF:0 tvg-name="FOX ACTION" tvg-ID="" group-title="CINEMA",FOX ACTION
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1731.ts
+#EXTINF:0 tvg-name="FOX CINEMA" tvg-ID="" group-title="CINEMA",FOX CINEMA
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1732.ts
+#EXTINF:0 tvg-name="FOX COMEDY" tvg-ID="" group-title="CINEMA",FOX COMEDY
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1734.ts
+#EXTINF:0 tvg-name="FOX FAMILY" tvg-ID="" group-title="CINEMA",FOX FAMILY
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1735.ts
+#EXTINF:0 tvg-name="FOX PREMIUM MOVIES" tvg-ID="" group-title="CINEMA",FOX PREMIUM MOVIES
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1736.ts
+#EXTINF:0 tvg-name="FOX PREMIUM SERIES" tvg-ID="" group-title="CINEMA",FOX PREMIUM SERIES
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1737.ts
+#EXTINF:0 tvg-name="FOX SPORT MEX" tvg-ID="" group-title="",FOX SPORT MEX
+http://tv.iptv5latino.cl:8000/live/Angela/1234/613.ts
+#EXTINF:0 tvg-name="FX" tvg-ID="" group-title="CINEMA",FX
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1739.ts
+#EXTINF:0 tvg-name="FX MOVIES" tvg-ID="" group-title="CINEMA",FX MOVIES
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15713.ts
+#EXTINF:0 tvg-name="FXM" tvg-ID="" group-title="CINEMA",FXM
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1740.ts
+#EXTINF:0 tvg-name="HBO USA" tvg-ID="" group-title="CINEMA",HBO USA
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15574.ts
+#EXTINF:0 tvg-name="HBO 2 USA" tvg-ID="" group-title="CINEMA",HBO 2 USA
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15575.ts
+#EXTINF:0 tvg-name="HBO FAMILY" tvg-ID="" group-title="CINEMA",HBO FAMILY
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1746.ts
+#EXTINF:0 tvg-name="HBO" tvg-ID="" group-title="CINEMA",HBO
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1744.ts
+#EXTINF:0 tvg-name="HBO PLUS" tvg-ID="" group-title="CINEMA",HBO PLUS
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1747.ts
+#EXTINF:0 tvg-name="HBO SIGNATURE" tvg-ID="" group-title="CINEMA",HBO SIGNATURE
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1748.ts
+#EXTINF:0 tvg-name="HISTORY" tvg-ID="" group-title="CULTURA",HISTORY
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15565.ts
+#EXTINF:0 tvg-name="MOVISTAR DEPORTES" tvg-ID="" group-title="DEPORTES",MOVISTAR DEPORTES
+http://tv.iptv5latino.cl:8000/live/Angela/1234/655.ts
+#EXTINF:0 tvg-name="MOVISTAR LA LIGA" tvg-ID="" group-title="DEPORTES",MOVISTAR LA LIGA
+http://tv.iptv5latino.cl:8000/live/Angela/1234/659.ts
+#EXTINF:0 tvg-name="NATGEO KIDS" tvg-ID="" group-title="Niños",NATGEO KIDS
+http://tv.iptv5latino.cl:8000/live/Angela/1234/725.ts
+#EXTINF:0 tvg-name="NATGEO WILD" tvg-ID="" group-title="CULTURA",NATGEO WILD
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15536.ts
+#EXTINF:0 tvg-name="NATIONAL GEOGRAPHIC" tvg-ID="" group-title="CULTURA",NATIONAL GEOGRAPHIC
+http://tv.iptv5latino.cl:8000/live/Angela/1234/803.ts
+#EXTINF:0 tvg-name="NBA TV" tvg-ID="" group-title="DEPORTES",NBA TV
+http://tv.iptv5latino.cl:8000/live/Angela/1234/14790.ts
+#EXTINF:0 tvg-name="NICK JR" tvg-ID="" group-title="Niños",NICK JR
+http://tv.iptv5latino.cl:8000/live/Angela/1234/726.ts
+#EXTINF:0 tvg-name="NICKELODEON" tvg-ID="" group-title="Niños",NICKELODEON
+http://tv.iptv5latino.cl:8000/live/Angela/1234/727.ts
+#EXTINF:0 tvg-name="SPACE CHANNEL" tvg-ID="" group-title="CULTURA",SPACE CHANNEL
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1754.ts
+#EXTINF:0 tvg-name="STUDIO UNIVERSAL" tvg-ID="" group-title="CINEMA",STUDIO UNIVERSAL
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15714.ts
+#EXTINF:0 tvg-name="TELEMUNDO USA" tvg-ID="" group-title="NOTICIAS",TELEMUNDO USA
+http://tv.iptv5latino.cl:8000/live/Angela/1234/14631.ts
+#EXTINF:0 tvg-name="TNT" tvg-ID="" group-title="CINEMA",TNT
+http://tv.iptv5latino.cl:8000/live/Angela/1234/3747.ts
+#EXTINF:0 tvg-name="TNT SERIES" tvg-ID="" group-title="CINEMA",TNT SERIES
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1761.ts
+#EXTINF:0 tvg-name="TNT SPORTS" tvg-ID="" group-title="DEPORTES",TNT SPORTS
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15942.ts
+#EXTINF:0 tvg-name="UNIVISION" tvg-ID="" group-title="",UNIVISION
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15578.ts
+#EXTINF:0 tvg-name="CNN ESP" tvg-ID="" group-title="NOTICIAS",CNN ESP
+http://tv.iptv5latino.cl:8000/live/Angela/1234/27716.ts
+#EXTINF:0 tvg-name="FOX NEWS" tvg-ID="" group-title="NOTICIAS",FOX NEWS
+http://tv.iptv5latino.cl:8000/live/Angela/1234/27718.ts
+#EXTINF:0 tvg-name="RCN NOTICIAS" tvg-ID="" group-title="NOTICIAS",RCN NOTICIAS
+http://tv.iptv5latino.cl:8000/live/Angela/1234/27719.ts
